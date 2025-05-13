@@ -1,2 +1,2 @@
 # html-resume
-A simple resume about myself by usinh html
+A simple resume about myself by using html
